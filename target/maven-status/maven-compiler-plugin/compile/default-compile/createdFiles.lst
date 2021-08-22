@@ -1,0 +1,3 @@
+com\camunda\embadedformimpl\ProcessConstants.class
+com\camunda\embadedformimpl\CamundaBpmProcessApplication.class
+com\camunda\embadedformimpl\LoggerDelegate.class
